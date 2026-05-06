@@ -1,2 +1,1 @@
-# awesome-metasploit-resources
-Awesome Metasploit Resources
+# Awesome Metasploit Resources
