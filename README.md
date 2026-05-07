@@ -14,10 +14,15 @@
 
 
 ## 📖 Contents
+- [Books](#books)
+- [Videos](#videos)
 - [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## Books
+
+## Videos
 
 ##
 
