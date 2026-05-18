@@ -21,6 +21,7 @@
 - [Contributors](#contributors)
 
 ## Books
+- [Metasploit](https://www.amazon.com/Metasploit-2nd-David-Kennedy-ebook/dp/B0C8M7VP34/)
 
 ## Videos
 
@@ -37,5 +38,9 @@ You can access the my awesome lists [here](https://cyberthreatdefence.com/my_awe
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/aweso/graphs/contributors)!
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-metasploit-resources-)
